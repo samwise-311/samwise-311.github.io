@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sam's Page
 
 You can use the [editor on GitHub](https://github.com/samwise-311/samwise-311.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -6,10 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
+![fishing](http://i.ytimg.com/vi/Hjm-5YYA5Ls/maxresdefault.jpg)
 ```markdown
 Syntax highlighted code block
 
