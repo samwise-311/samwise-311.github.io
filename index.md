@@ -1,11 +1,10 @@
-## Welcome to Sam's Page
+## *Welcome to Sam's Page*
 
 ---
-Last Commit --> "`r format(Sys.Date(), "%B %d, %Y")`"
-
 
 ![fishing](https://scontent.fboi1-1.fna.fbcdn.net/v/t1.0-9/117626780_3839790632702595_945707442061206718_o.jpg?_nc_cat=102&ccb=2&_nc_sid=09cbfe&_nc_ohc=kPHfbchs8_4AX9fiuv5&_nc_ht=scontent.fboi1-1.fna&oh=e90aee6a3adbbe3240fb2b4d5b7dc389&oe=6042E133)
 
+---
 
 ### Markdown
 
