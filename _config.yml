@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
 title: Hello!!!
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: "`r format(Sys.date(), '%A, %B %d, %Y')`"
 description: Bare with me. It's a work in progress...
