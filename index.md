@@ -8,7 +8,7 @@
 
       Java Fun   | Assembly
   -------------  | -------------
-  *Content Cell* | Content Cell
+  [[include repo=JAVA path=pr.java]] | Content Cell
   Content Cell   | Content Cell
 
 ### Markdown
