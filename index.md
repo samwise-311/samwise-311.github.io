@@ -6,6 +6,11 @@
 
 ---
 
+      Java Fun   | Assembly
+  -------------  | -------------
+  *Content Cell* | Content Cell
+  Content Cell   | Content Cell
+
 ### Markdown
 
 # Header 1
