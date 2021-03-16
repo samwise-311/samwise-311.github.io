@@ -8,7 +8,7 @@
 
       Java Fun   | Assembly
   -------------  | -------------
-  [[include repo=JAVA path=pr.java]] | Content Cell
+  <https://github.com/samwise-311/JAVA.git> | Content Cell
   Content Cell   | Content Cell
 
 ### Markdown
