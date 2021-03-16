@@ -5,10 +5,8 @@
 ![fishing](https://scontent.fboi1-1.fna.fbcdn.net/v/t1.0-9/117626780_3839790632702595_945707442061206718_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=AjryhcjGpwcAX8JH1D2&_nc_ht=scontent.fboi1-1.fna&oh=8a375d261e6398b47c9460f528d14db2&oe=60764BB3)
 
 ---
-
-      Java Fun   | Assembly
-      [JAVA](https://github.com/samwise-311/JAVA.git)| ---------
-  Content Cell   | Content Cell
+[JAVA](https://github.com/samwise-311/JAVA.git)
+----
 
 ### Markdown
 
