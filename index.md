@@ -8,7 +8,15 @@
 [JAVA](https://github.com/samwise-311/JAVA.git)
 ----
 ~~~html
+<!DOCTYPE html>
+<html>
+<body>
+
 <h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
 ~~~
 ### Markdown
 
