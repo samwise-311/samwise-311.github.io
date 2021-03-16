@@ -7,8 +7,7 @@
 ---
 
       Java Fun   | Assembly
-      ---------  | ---------
-      [JAVA](https://github.com/samwise-311/JAVA.git) | Content Cell
+      [JAVA](https://github.com/samwise-311/JAVA.git)| ---------
   Content Cell   | Content Cell
 
 ### Markdown
