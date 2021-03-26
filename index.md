@@ -7,6 +7,7 @@
 ---
 [JAVA](https://github.com/samwise-311/JAVA.git)
 ----
+![stoney](https://photos.google.com/photo/AF1QipO7bqEktAtK3Utqaf8X2WONKo2klhSjDemU2Aq_)
 ~~~html
 <!DOCTYPE html>
 <html>
