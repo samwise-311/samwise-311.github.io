@@ -7,14 +7,12 @@
 ---
 [JAVA](https://github.com/samwise-311/JAVA.git)
 ----
-![stoney](https://photos.google.com/photo/AF1QipO7bqEktAtK3Utqaf8X2WONKo2klhSjDemU2Aq_)
+![stoney](https://photos.app.goo.gl/NxxfKHQatWipEnMk8)
 ~~~html
 <!DOCTYPE html>
 <html>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
 
 </body>
 </html>
