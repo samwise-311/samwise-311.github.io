@@ -14,7 +14,7 @@
     <style>
         canvas {
             position: absolute;
-            top: 10%;
+            top: 90%;
             left: 50%;
             width: 640px;
             height: 640px;
