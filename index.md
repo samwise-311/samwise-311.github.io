@@ -1,6 +1,6 @@
 ## *Welcome to Sam's Page*
 ---
-<img src="https://media.gettyimages.com/vectors/vibrant-vector-background-vector-id1168071518?k=6&m=1168071518&s=612x612&w=0&h=xxAc1qDkA3BmUoZPdC3NS42bYJuz1AjbLAA9prAqtwo=" alt="drawing" height="2000"/>
+<img src="https://media.gettyimages.com/vectors/vibrant-vector-background-vector-id1168071518?k=6&m=1168071518&s=612x612&w=0&h=xxAc1qDkA3BmUoZPdC3NS42bYJuz1AjbLAA9prAqtwo=" alt="drawing" height="800"/>
 ---
 
 ![fishing](https://scontent.fboi1-1.fna.fbcdn.net/v/t1.0-9/117626780_3839790632702595_945707442061206718_o.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=AjryhcjGpwcAX8JH1D2&_nc_ht=scontent.fboi1-1.fna&oh=8a375d261e6398b47c9460f528d14db2&oe=60764BB3)
