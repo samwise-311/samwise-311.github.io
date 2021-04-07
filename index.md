@@ -58,7 +58,7 @@
         var previewCenterX = 467;
         var previewCenterY = 97;
         var mainFont = 'bold 48px tahoma';
-        var smallFont = 'bold 18px monospace';
+        var smallFont = 'bold 18px tahoma';
         var colors = ['green', 'red', 'blue', 'purple', 'orange', 'blueviolet', 'magenta'];
         var gridRect = { x: 46, y: 47, w: 308, h: 517 };
         var previewRect = { x: 387, y: 47, w: 200, h: 200 };
@@ -69,7 +69,7 @@
         var titlebgColor = 'black';
         var textColor = '#04fcf8';
         var bgColor = '#A020F0';
-        var gridColor = '#BECFEA';
+        var gridColor = '#39cdbd';
         var gridBorderColor = '#7788AA';
         var largeStroke = 5;
         var smallStroke = 2;
