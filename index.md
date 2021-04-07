@@ -70,7 +70,7 @@
         var textColor = '#04fcf8';
         var bgColor = '#A020F0';
         var gridColor = '#39cdbd';
-        var gridBorderColor = '#7788AA';
+        var gridBorderColor = '#04fcf8';
         var largeStroke = 5;
         var smallStroke = 2;
  
