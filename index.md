@@ -65,9 +65,9 @@
         var titleRect = { x: 100, y: 95, w: 252, h: 100 };
         var clickRect = { x: 50, y: 375, w: 252, h: 40 };
         var outerRect = { x: 5, y: 5, w: 630, h: 630 };
-        var squareBorder = 'white';
-        var titlebgColor = 'white';
-        var textColor = 'black';
+        var squareBorder = '#efd7fc';
+        var titlebgColor = 'black';
+        var textColor = '#04fcf8';
         var bgColor = '#A020F0';
         var gridColor = '#BECFEA';
         var gridBorderColor = '#7788AA';
