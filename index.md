@@ -1,4 +1,14 @@
 ## *Welcome to Sam's Page*
+
+<h1 class="ml11">
+  <span class="text-wrapper">
+    <span class="line line1"></span>
+    <span class="letters">Enjoy some Tetris</span>
+  </span>
+</h1>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+
 ---
 <img src="https://media.gettyimages.com/vectors/vibrant-vector-background-vector-id1168071518?k=6&m=1168071518&s=612x612&w=0&h=xxAc1qDkA3BmUoZPdC3NS42bYJuz1AjbLAA9prAqtwo=" alt="drawing" height="800"/>
 ----
@@ -375,17 +385,7 @@
             }
         }
  
-        function drawStartScreen() {
-        
-        <h1 class="ml11">
-  <span class="text-wrapper">
-    <span class="line line1"></span>
-    <span class="letters">Tetris</span>
-  </span>
-</h1>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
-            
+        function drawStartScreen() {            
             g.font = mainFont;
  
             fillRect(titleRect, titlebgColor);
