@@ -1,4 +1,7 @@
 ## *Welcome to Sam's Page*
+---
+
+![bg](https://media.gettyimages.com/illustrations/abstract-waves-with-copy-space-illustration-id1165887475?k=6&m=1165887475&s=612x612&w=0&h=tq1w6j9Xyqs9tn2fPmI0svawFuRFqct3rO2pfOPz3Go=)
 
 ---
 
