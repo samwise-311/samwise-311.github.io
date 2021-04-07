@@ -1,10 +1,9 @@
 ## *Welcome to Sam's Page*
 
-<h1 class="ml11">
-  <span class="text-wrapper">
-    <span class="line line1"></span>
-    <span class="letters">Enjoy some Tetris</span>
-  </span>
+<h1 class="ml4">
+  <span class="letters letters-1">Ready</span>
+  <span class="letters letters-2">Set</span>
+  <span class="letters letters-3">Go!</span>
 </h1>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
