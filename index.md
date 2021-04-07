@@ -61,7 +61,7 @@
         var smallFont = 'bold 18px tahoma';
         var colors = ['green', 'red', 'blue', 'black', 'orange', 'blueviolet', 'magenta'];
         var gridRect = { x: 46, y: 47, w: 308, h: 517 };
-        var previewRect = { x: 387, y: 47, w: 100, h: 100 };
+        var previewRect = { x: 387, y: 47, w: 200, h: 200 };
         var titleRect = { x: 100, y: 95, w: 300, h: 100 };
         var clickRect = { x: 50, y: 375, w: 300, h: 40 };
         var outerRect = { x: 5, y: 5, w: 630, h: 630 };
