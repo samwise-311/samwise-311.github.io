@@ -57,7 +57,7 @@
         var clickY = 400;
         var previewCenterX = 467;
         var previewCenterY = 97;
-        var mainFont = 'bold 48px monospace';
+        var mainFont = 'bold 48px tahoma';
         var smallFont = 'bold 18px monospace';
         var colors = ['green', 'red', 'blue', 'purple', 'orange', 'blueviolet', 'magenta'];
         var gridRect = { x: 46, y: 47, w: 308, h: 517 };
@@ -68,7 +68,7 @@
         var squareBorder = 'white';
         var titlebgColor = 'white';
         var textColor = 'black';
-        var bgColor = '#DDEEFF';
+        var bgColor = '#A020F0';
         var gridColor = '#BECFEA';
         var gridBorderColor = '#7788AA';
         var largeStroke = 5;
