@@ -382,11 +382,11 @@
             fillRect(titleRect, titlebgColor);
             fillRect(clickRect, titlebgColor);
  
-            g.fillStyle = textColor;
+            g.fillStyle = 'black';
             g.fillText('Tetris', titleX, titleY);
- 
+            g.fillStyle = textColor;
             g.font = smallFont;
-            g.fillText('click to start...use wasd to play', clickX, clickY);
+            g.fillText('click to start', clickX, clickY);
         }
  
         function fillRect(r, color) {
