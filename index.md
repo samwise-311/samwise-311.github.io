@@ -1,12 +1,4 @@
-## *Welcome to Sam's Page*
-
-<h1 class="ml4">
-  <span class="letters letters-1">Ready</span>
-  <span class="letters letters-2">Set</span>
-  <span class="letters letters-3">Go!</span>
-</h1>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+## *WELCOME*
 
 ---
 <img src="https://media.gettyimages.com/vectors/vibrant-vector-background-vector-id1168071518?k=6&m=1168071518&s=612x612&w=0&h=xxAc1qDkA3BmUoZPdC3NS42bYJuz1AjbLAA9prAqtwo=" alt="drawing" height="800"/>
@@ -394,7 +386,7 @@
             g.fillText('Tetris', titleX, titleY);
  
             g.font = smallFont;
-            g.fillText('click to start', clickX, clickY);
+            g.fillText('click to start...use wasd to play', clickX, clickY);
         }
  
         function fillRect(r, color) {
