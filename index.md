@@ -380,6 +380,7 @@
             g.fillText('Tetris', titleX, titleY);
             g.fillStyle = textColor;
             g.font = smallFont;
+	    g.fillText('use ASDW keys', clickX, clickY-50);
             g.fillText('click to start', clickX, clickY);
         }
  
