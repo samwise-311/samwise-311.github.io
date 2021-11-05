@@ -538,6 +538,7 @@ ___
 char[] str = "Hello World!";
 int main(void) {
 	fprintf(stdout, "%s", str);
-	}
+	return 0;
+}
 ```
 
