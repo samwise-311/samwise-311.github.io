@@ -525,14 +525,6 @@
 ### Markdown
 # Use "A S D W" keys
  
-~~~html
-<!DOCTYPE html>
-<html>
-<body>
-
-
-</body>
-</html>
 ~~~
 ### Markdown
 
