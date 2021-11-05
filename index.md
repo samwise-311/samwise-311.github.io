@@ -522,15 +522,8 @@
 </html>
 
  
-# Use "A S D W" keys
-## Header 2
-### Header 3
+# Use `A S D W` keys
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
