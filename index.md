@@ -524,6 +524,8 @@
  
 </html>
 ----
+ # Use "A S D W" keys
+ 
 ~~~html
 <!DOCTYPE html>
 <html>
