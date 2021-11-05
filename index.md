@@ -4,7 +4,6 @@
 ----
 
 ----
-<!DOCTYPE html>
 <html lang='en'>
  
 <head>
@@ -525,8 +524,8 @@
 # Use `A S D W` keys
 
 
-**Bold** and _Italic_ and `Code` text
 
+ 
 [Link](url) and ![Image](src)
 ```
 
