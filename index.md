@@ -523,7 +523,7 @@
 # Use `A` `S` `D` `W` keys
 **
  
-```java
+<java>
  public static void main(String[] args) {
 		System.out.print("                                                      _"+\r+
 			    " _   _      _ _         _    _            _     _    | |"+\r + 
@@ -534,4 +534,4 @@
 				"\\_| |_/\\___|_|_|\\___/   \\/  \\/ \\___/|_|  |_|\\____|   |_|"+'\r' + 
 				"                                                  ");
 	}
- ```
+ </java>
