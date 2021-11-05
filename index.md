@@ -520,7 +520,7 @@
  
 </html>
 ___
---
+-
 # `J` `A` `V` `A` 
 ```
 public static void main(String[] args) {                                               
@@ -532,3 +532,12 @@ public static void main(String[] args) {
 	     System.out.println( \_| |_/\___|_|_|\___/   \/  \/ \___/|_|  |_|\____|   |_| );
 }
  ```
+___
+# `C`
+```c
+char[] str = "Hello World!";
+int main(void) {
+	fprintf(stdout, "%s", str);
+	}
+```
+
