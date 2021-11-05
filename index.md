@@ -521,14 +521,8 @@
  
 </html>
 ----
- ~~~
-### Markdown
-# Use "A S D W" keys
  
-~~~
-### Markdown
-
-# Header 1
+# Use "A S D W" keys
 ## Header 2
 ### Header 3
 
