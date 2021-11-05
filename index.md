@@ -379,7 +379,7 @@
             g.fillStyle = 'black';
             g.fillText('Tetris', titleX, titleY);
             g.font = smallFont;
-	    g.fillText('use ASDW keys', canvas.width/2, clickY-50);
+	    g.fillText('use ASDW keys', clickX, clickY-50);
             g.fillStyle = textColor;
             g.fillText('click to start', clickX, clickY);
         }
