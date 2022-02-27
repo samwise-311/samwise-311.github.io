@@ -1,6 +1,8 @@
 ---
-# <u>The Global Quantum Computing Race
+# The Global Quantum Computing Race
 ---
 
 ## Entry Title:
 ### Date:
+--
+
