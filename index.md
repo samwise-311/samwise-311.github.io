@@ -1,4 +1,3 @@
-** -WELCOME- **
 ---
 # The Global Quantum Computing Race
 ---
