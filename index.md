@@ -58,7 +58,7 @@ Let's all hope that quantum computing keeps going in a positive direction and we
 
 [tech.hindustimes.com](https://tech.hindustantimes.com/tech/news/surprise-china-beats-us-gets-fastest-computers-in-the-world-71635660546461.html)
 
-[interestingengineering.com](https://interestingengineering.com/ibms-new-quantum-computer-is-double-the-size-of-chinas-jiuzhang-2)
+(https://interestingengineering.com/ibms-new-quantum-computer-is-double-the-size-of-chinas-jiuzhang-2)
 
 
 
