@@ -3,10 +3,9 @@
 ---
 
 * Author: Samuel Wasko 
---
-`April 1, 2022`
---
 ---
+
+`April 1, 2022`
 
 ## Some Back Story
 
