@@ -52,13 +52,13 @@ Let's all hope that quantum computing keeps going in a positive direction and we
 
 
 ### Sources used
-[title](https://azure.microsoft.com/en-us/overview/what-is-quantum-computing/#introduction)
+[azure.microsoft.com](https://azure.microsoft.com/en-us/overview/what-is-quantum-computing/#introduction)
 
-[title](https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/19/the-quantum-race-continues-what-will-it-take-for-companies-to-lead-it/?sh=2b23eb7f2bd6)
+[forbes.com](https://www.forbes.com/sites/forbescommunicationscouncil/2021/07/19/the-quantum-race-continues-what-will-it-take-for-companies-to-lead-it/?sh=2b23eb7f2bd6)
 
-[title](https://tech.hindustantimes.com/tech/news/surprise-china-beats-us-gets-fastest-computers-in-the-world-71635660546461.html)
+[tech.hindustimes.com](https://tech.hindustantimes.com/tech/news/surprise-china-beats-us-gets-fastest-computers-in-the-world-71635660546461.html)
 
-[title](https://interestingengineering.com/ibms-new-quantum-computer-is-double-the-size-of-chinas-jiuzhang-2)
+[interestingengineering.com](https://interestingengineering.com/ibms-new-quantum-computer-is-double-the-size-of-chinas-jiuzhang-2)
 
 
 
