@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-  <h1>Sam's Chess Game</h1>
+  <h1>Sam's Chess Game </h1>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
@@ -16,8 +15,8 @@
 
     .chessboard {
       display: grid;
-      grid-template-columns: repeat(8, 50px);
-      grid-template-rows: repeat(8, 50px);
+      grid-template-columns: repeat(8, 80px);
+      grid-template-rows: repeat(8, 80px);
     }
 
     .square {
@@ -30,13 +29,13 @@
       border: 1px solid #333;
     }
 
-    .even-row .even-col,
-    .odd-row .odd-col {
+    .even-row .square:nth-child(even),
+    .odd-row .square:nth-child(odd) {
       background-color: #fff;
     }
 
-    .even-row .odd-col,
-    .odd-row .even-col {
+    .even-row .square:nth-child(odd),
+    .odd-row .square:nth-child(even) {
       background-color: #000;
       color: #fff;
     }
@@ -53,8 +52,6 @@
     for (let col = 0; col < 8; col++) {
       const square = document.createElement('div');
       square.classList.add('square');
-      square.classList.add((row % 2 === 0) ? 'even-row' : 'odd-row');
-      square.classList.add((col % 2 === 0) ? 'even-col' : 'odd-col');
       chessboard.appendChild(square);
     }
   }
