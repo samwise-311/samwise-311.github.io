@@ -164,4 +164,24 @@
       { shape: [[1, 1, 1], [1]], color: 'orange' },
       { shape: [[1, 1, 1], [0, 0, 1]], color: 'blue' },
       { shape: [[1, 1, 1], [0, 1]], color: 'yellow' },
-      { shape: [[1, 1, 1], [0, 1
+      { shape: [[1, 1, 1], [0, 1, 1]], color: 'green' },
+      { shape: [[1, 1], [1, 1]], color: 'red' },
+      { shape: [[1, 1, 1], [1, 0, 0]], color: 'purple' },
+    ];
+    const randomIndex = Math.floor(Math.random() * tetrominoes.length);
+    const tetromino = tetrominoes[randomIndex];
+    return {
+      shape: tetromino.shape,
+      color: tetromino.color,
+      x: Math.floor(boardWidth / 2) - Math.floor(tetromino.shape[0].length / 2),
+      y: 0,
+    };
+  }
+
+  function handleKeyPress(event) {
+    switch (event.key) {
+      case 'ArrowLeft':
+        moveTetrominoLeft();
+        break;
+      case 'ArrowRight':
+        moveTetromino
