@@ -152,10 +152,17 @@
   }
 
   function rotateMatrix(matrix) {
-    const result = matrix[0].map((_, index) =>
-      matrix.map(row => row[index])
-    ).reverse();
-    return result;
+  const rows = matrix.length;
+  const cols = matrix[0].length;
+  const rotated = Array.from({ length: cols }, () => Array(rows).fill(0));
+
+  for (let row = 0; row < rows; row++) {
+    for (let col = 0; col < cols; col++) {
+      rotated[col][rows - row - 1] = matrix[row][col];
+    }
+  }
+
+  return rotated;
   }
 
   function generateRandomTetromino() {
