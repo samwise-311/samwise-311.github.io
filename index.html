@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-  <header>
-    <h1>A heading here</h1>
-    <p>Posted by John Doe</p>
-    <p>Some additional information here</p>
-  </header>
+
 <head>
+  <h1>Sam's Chess Game</h1>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
@@ -31,17 +28,17 @@
       align-items: center;
       font-size: 20px;
       border: 1px solid #333;
-      background-color: #fff;
     }
 
     .even-row .even-col,
     .odd-row .odd-col {
-      background-color: #ccc;
+      background-color: #fff;
     }
 
     .even-row .odd-col,
     .odd-row .even-col {
-      background-color: #fff;
+      background-color: #000;
+      color: #fff;
     }
   </style>
 </head>
@@ -58,7 +55,6 @@
       square.classList.add('square');
       square.classList.add((row % 2 === 0) ? 'even-row' : 'odd-row');
       square.classList.add((col % 2 === 0) ? 'even-col' : 'odd-col');
-      square.textContent = String.fromCharCode(65 + col) + (8 - row);
       chessboard.appendChild(square);
     }
   }
