@@ -34,7 +34,6 @@
   let board = createEmptyBoard();
   let currentTetromino = generateRandomTetromino();
   let interval;
-  let isPaused = false;
 
   function createEmptyBoard() {
     return Array.from({ length: boardHeight }, () => Array(boardWidth).fill(0));
@@ -180,36 +179,29 @@
   }
 
   function handleKeyPress(event) {
-    if (!isPaused) {
-      switch (event.key) {
-        case 'ArrowLeft':
-          moveTetrominoLeft();
-          break;
-        case 'ArrowRight':
-          moveTetrominoRight();
-          break;
-        case 'ArrowDown':
-          moveTetrominoDown();
-          break;
-        case 'ArrowUp':
-          rotateTetromino();
-          break;
-      }
+    switch (event.key) {
+      case 'ArrowLeft':
+        moveTetrominoLeft();
+        break;
+      case 'ArrowRight':
+        moveTetrominoRight();
+        break;
+      case 'ArrowDown':
+        moveTetrominoDown();
+        break;
+      case 'ArrowUp':
+        rotateTetromino();
+        break;
     }
   }
-  
-  function startGame() {
-    interval = setInterval(() => {
-      if (!isPaused) {
-        moveTetrominoDown();
-        draw();
-      }
-    }, 500);
 
-    document.addEventListener('keydown', handleKeyPress);
-  }
+  interval = setInterval(() => {
+    moveTetrominoDown();
+    draw();
+  }, 500);
 
-  startGame();
+  document.addEventListener('keydown', handleKeyPress);
+
 </script>
 
 </body>
