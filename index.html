@@ -169,8 +169,14 @@
     rotated.unshift([0, 0]);
   }
 
+  // Additional adjustment for the yellow tetromino
+  if (matrix.length === 2 && matrix[0].length === 4) {
+    rotated.unshift([0, 0, 0]);
+  }
+
   return rotated;
   }
+
 
 
   function generateRandomTetromino() {
