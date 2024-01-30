@@ -154,8 +154,8 @@
 
   function rotateMatrix(matrix) {
     const result = matrix[0].map((_, index) =>
-      matrix.map(row => row[index]).reverse()
-    );
+      matrix.map(row => row[index])
+    ).reverse();
     return result;
   }
 
@@ -194,25 +194,8 @@
         case 'ArrowUp':
           rotateTetromino();
           break;
-        case ' ':
-          togglePause();
-          break;
       }
     }
-  }
-
-  function togglePause() {
-   isPaused = !isPaused;
-  if (isPaused) {
-    clearInterval(interval);
-  } else {
-    interval = setInterval(() => {
-      if (!isPaused) {
-        moveTetrominoDown();
-        draw();
-      }
-    }, 500);
-  }
   }
 
   function startGame() {
