@@ -162,8 +162,16 @@
     }
   }
 
+  // Check if the tetromino is orange or yellow and adjust the position after rotation
+  if (matrix.length === 1 && matrix[0].length === 3) {
+    rotated.unshift([0]);
+  } else if (matrix.length === 2 && matrix[0].length === 3) {
+    rotated.unshift([0, 0]);
+  }
+
   return rotated;
   }
+
 
   function generateRandomTetromino() {
     const tetrominoes = [
