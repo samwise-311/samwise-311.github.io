@@ -192,6 +192,8 @@
       case 'ArrowUp':
         rotateTetromino();
         break;
+      case ' ':
+        pauseGame();
     }
   }
 
@@ -202,6 +204,18 @@
     }, 500);
 
     document.addEventListener('keydown', handleKeyPress);
+  }
+
+  function pauseGame() {
+    isPaused = !isPaused;
+    if (isPaused) {
+      clearInterval(interval);
+    } else {
+      interval = setInterval(() => {
+        moveTetrominoDown();
+        draw();
+      }, 500);
+    }
   }
 
   startGame();
