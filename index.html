@@ -184,4 +184,28 @@
         moveTetrominoLeft();
         break;
       case 'ArrowRight':
-        moveTetromino
+        moveTetrominoRight();
+        break;
+      case 'ArrowDown':
+        moveTetrominoDown();
+        break;
+      case 'ArrowUp':
+        rotateTetromino();
+        break;
+    }
+  }
+
+  function startGame() {
+    interval = setInterval(() => {
+      moveTetrominoDown();
+      draw();
+    }, 500);
+
+    document.addEventListener('keydown', handleKeyPress);
+  }
+
+  startGame();
+</script>
+
+</body>
+</html>
